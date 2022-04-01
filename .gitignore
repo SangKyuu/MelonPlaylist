@@ -1,0 +1,6 @@
+.idea
+*.zip
+./arena_data/*
+*.npy
+__pychache__
+*.model
